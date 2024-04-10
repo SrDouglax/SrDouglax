@@ -2,11 +2,11 @@
 
 # My Deployed Sites
 
-## 📖 Bookshelf (Only Portuguese Available)  
-[Visit Bookshelf](https://bookshelf-net.vercel.app)
+## 🚀 Apliquei (Only Portuguese Available)  
+[Visit Apliquei](https://apliquei.vercel.app/)
 
 <div align="center">
-  <img src="https://github.com/SrDouglax/SrDouglax/assets/69745104/d40a66b0-db4a-4cf2-982e-9f7d7e6e6a89" width="50%" >
+  <img src="https://github.com/SrDouglax/SrDouglax/assets/69745104/d0d89c7e-7c42-4c81-9ad2-98ce203b6ab3" width="50%">
 </div>
 
 ---
@@ -27,13 +27,4 @@
 
 <div align="center">
   <img src="https://github.com/SrDouglax/SrDouglax/assets/69745104/24d0d26e-9321-4773-a2ab-b43335823e19" width="50%">
-</div>
-
----
-
-## 💬 Brase (Only Portuguese Available)  
-[Visit Brase](https://brase-indev.web.app)
-
-<div align="center">
-  <img src="https://github.com/SrDouglax/SrDouglax/assets/69745104/1b66e769-a82f-47f9-947a-0bb2b69c654f" width="50%">
 </div>
