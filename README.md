@@ -9,10 +9,10 @@
 
 ---
 
-## 🎬 Filmeeter (Only Portuguese Available)  
+## 🎬 Pickfilm (Only Portuguese Available)  
 > Let luck decide what you will watch next.
 > 
-> [Visit Filmeeter](https://filmeeter.vercel.app) | [Github](https://github.com/SrDouglax/Filmeeter)
+> [Visit Pickfilm](https://pickfilm.vercel.app/) | [Github](https://github.com/SrDouglax/Filmeeter)
 
 ---
 
