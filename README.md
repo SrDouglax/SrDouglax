@@ -1,5 +1,3 @@
-![Desktop - 1](https://github.com/SrDouglax/SrDouglax/assets/69745104/6c0535e5-32ab-44ee-ad48-1811c517d962)
-
 # My Deployed Sites
 
 ## 🚀 Apliquei (Only Portuguese Available)  
