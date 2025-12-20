@@ -32,3 +32,5 @@
 > Vocational test focused on displaying results for the ENEM.
 > 
 > [Visit Vocaciona](https://vocaciona.vercel.app/)
+
+### Projects made in mobile: [itch.io](https://jiant-studios.itch.io/)
